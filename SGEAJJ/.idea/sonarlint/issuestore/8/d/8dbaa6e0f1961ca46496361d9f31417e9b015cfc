@@ -1,0 +1,74 @@
+
+Q
+java:S1141Ú
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+r
+java:S1488é"[Immediately return this expression instead of assigning it to the temporary variable "con".(½Ÿ¾Ö
+y
+java:S1488ñ"bImmediately return this expression instead of assigning it to the temporary variable "connection".(Áà±
+q
+java:S1488ú"ZImmediately return this expression instead of assigning it to the temporary variable "re".(œ§¶Ã
+~
+java:S1488û
+"`Immediately return this expression instead of assigning it to the temporary variable "fileName".(ùœŞ¸8Ù‰½µâ0
+x
+java:S1104+"]Make btVolverAInicio11 a static final constant or non-public and provide accessors if needed.(Í¤»—üÿÿÿÿ
+t
+java:S1104,"^Make btimprimirFacVenta a static final constant or non-public and provide accessors if needed.(Ú˜å´
+x
+java:S1104-"]Make btimprimirFacComp a static final constant or non-public and provide accessors if needed.(ƒ“¢Ñüÿÿÿÿ
+u
+java:S11040"ZMake btElimProducto a static final constant or non-public and provide accessors if needed.(¾Øå¯ÿÿÿÿÿ
+q
+java:S11041"[Make btCrearProducto a static final constant or non-public and provide accessors if needed.(«¥çë
+q
+java:S11042"[Make btNuevoProducto a static final constant or non-public and provide accessors if needed.(ÕŞüÁ
+w
+java:S11043"\Make btNuevoProducto1 a static final constant or non-public and provide accessors if needed.(ÊĞ£Şùÿÿÿÿ
+o
+java:S11044"YMake btIngresaComp a static final constant or non-public and provide accessors if needed.(“šñ
+s
+java:S11045"XMake btModiCompra a static final constant or non-public and provide accessors if needed.(ôŠ–šıÿÿÿÿ
+n
+java:S11046"XMake btElimCompra a static final constant or non-public and provide accessors if needed.(¢îù§
+v
+java:S11047"[Make btFacturaVolver a static final constant or non-public and provide accessors if needed.(¹ëÏ½ùÿÿÿÿ
+v
+java:S11048"[Make btVolverAInicio a static final constant or non-public and provide accessors if needed.(Ğ–÷Ëıÿÿÿÿ
+r
+java:S11049"\Make bImprimirFactura a static final constant or non-public and provide accessors if needed.(Ü–šó
+q
+java:S1104:"VMake iRImagen11 a static final constant or non-public and provide accessors if needed.(«‰£èıÿÿÿÿ
+p
+java:S1104;"UMake iRImagen1 a static final constant or non-public and provide accessors if needed.(óäºóûÿÿÿÿ
+w
+java:S1104<"\Make btVolverAInicio1 a static final constant or non-public and provide accessors if needed.(İ²õ»ÿÿÿÿÿ
+?	java:S108Â")Either remove or fill this block of code.(å¥‡
+I
+java:S6126â"2Replace this String concatenation with Text block.(“ğ—í
+I
+java:S6126ÿ"2Replace this String concatenation with Text block.(ùáÃ
+N
+java:S6126"2Replace this String concatenation with Text block.(½Ëò¾úÿÿÿÿ
+I
+java:S6126£"2Replace this String concatenation with Text block.(ï»æà
+N
+java:S6126¼"2Replace this String concatenation with Text block.(­âúÏÿÿÿÿÿ
+I
+java:S6126Ó"2Replace this String concatenation with Text block.(¿ØÇÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(¯£êÉ
+R	java:S125´"<This block of commented-out lines of code should be removed.(¯£êÉ
+R	java:S125«	"<This block of commented-out lines of code should be removed.(¯£êÉ
+?	java:S108é
+")Either remove or fill this block of code.(å¥‡
+?	java:S108­")Either remove or fill this block of code.(å¥‡
+F
+java:S1172û"/Remove this unused method parameter "nomTabla".(ƒ·Ş‘
+H
+java:S1068="-Remove this unused "idFactura" private field.(ÕäŸñıÿÿÿÿ
+H
+java:S1068²"1Remove this unused "usuarioActual" private field.(Î»ØÂ
+M
+java:S1144¨"1Remove this unused private "cierraCompra" method.(øŠŞÏüÿÿÿÿ
